@@ -1,0 +1,10 @@
+package Ex;
+
+public class Example1 {
+    public Example1() {
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Привет, мир!");
+    }
+}
