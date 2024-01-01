@@ -10,12 +10,18 @@ public class Main_2100 {
     }
 
     public static void main(String[] args) {
+
         String inputFileName = "src/Timus/task_2100/unput.txt";
         boolean oj = System.getProperty("ONLINE_JUDGE") != null;
+
         int Marchal_Lily = 2;
 
         try {
-            BufferedReader bufferedReader = oj ? new BufferedReader(new InputStreamReader(System.in)) : new BufferedReader(new FileReader(inputFileName));
+
+            BufferedReader bufferedReader =
+                    oj ? new BufferedReader(new InputStreamReader(System.in)) :
+                            new BufferedReader(new FileReader(inputFileName));
+
             String readLine = "";
             int numberOfFriends = 0;
             int numberOfPairs = 0;
