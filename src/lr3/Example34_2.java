@@ -1,7 +1,7 @@
 package lr3;
 
 import java.util.Scanner;
-public class Example34 {
+public class Example34_2 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -16,11 +16,12 @@ public class Example34 {
 
         System.out.println("Целые числа между " + start + " и " + end + ":");
 
-        for (int i = start; i <= end; i++) {
+        int i = start;
+        while (i <= end) {
             System.out.print(i + " ");
+            i++;
         }
 
         in.close();
     }
 }
-
