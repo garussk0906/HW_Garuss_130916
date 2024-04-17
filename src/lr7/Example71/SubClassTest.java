@@ -1,4 +1,4 @@
-package lr7;
+package lr7.Example71;
 
 public class SubClassTest extends SuperClass {
     private String str2;
