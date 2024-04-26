@@ -1,4 +1,4 @@
-package lr8.Ex4;
+package lr8.Ex111.Ex4;
 
 import java.io.*;
 import java.util.Scanner;

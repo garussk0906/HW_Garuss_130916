@@ -1,4 +1,4 @@
-package lr8.Ex7;
+package lr8.Ex111.Ex7;
 
 import java.io.*;
 

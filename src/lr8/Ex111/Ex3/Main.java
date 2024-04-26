@@ -1,10 +1,8 @@
-package lr8.Ex3;
+package lr8.Ex111.Ex3;
 
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.lang.reflect.Array;
-import java.nio.channels.ScatteringByteChannel;
 import java.util.Arrays;
 
 public class Main {

@@ -1,4 +1,4 @@
-package lr8.Ex2;
+package lr8.Ex111.Ex2;
 
 import java.io.ByteArrayInputStream;
 import java.io.FileInputStream;
