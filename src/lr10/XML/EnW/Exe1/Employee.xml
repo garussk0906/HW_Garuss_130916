@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Иван Иванов</name>
+        <position>Разработчик</position>
+        <department>IT</department>
+        <salary>100000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Елена Петрова</name>
+        <position>Менеджер по продукту</position>
+        <department>Маркетинг</department>
+        <salary>90000</salary>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Алексей Сидоров</name>
+        <position>Тестировщик</position>
+        <department>QA</department>
+        <salary>80000</salary>
+    </employee>
+</employees>
