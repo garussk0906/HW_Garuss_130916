@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Иван Иванов",
+      "position": "Разработчик",
+      "department": "IT",
+      "salary": 100000
+    },
+    {
+      "id": 2,
+      "name": "Елена Петрова",
+      "position": "Дизайнер",
+      "department": "Маркетинг",
+      "salary": 90000
+    },
+    {
+      "id": 3,
+      "name": "Александр Сидоров",
+      "position": "Менеджер",
+      "department": "Продажи",
+      "salary": 110000
+    }
+  ]
+}
